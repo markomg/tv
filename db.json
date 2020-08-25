@@ -1,0 +1,80 @@
+{
+	"recomendadas":{
+		"0":{
+			"nombre":"The Martian",
+			"genero":"Suspenso",
+			"likes":"80",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/1.jpg",
+		},
+		"1":{
+			"nombre":"Dunkirk",
+			"genero":"Suspenso",
+			"likes":"25",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/2.jpg",
+		},
+		"2":{
+			"nombre":"Black Widow",
+			"genero":"Acción",
+			"likes":"21",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/3.jpg",
+		},
+		"3":{
+			"nombre":"Blade Runner 2045",
+			"genero":"Acción",
+			"likes":"44",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/4.jpg",
+		},
+		"4":{
+			"nombre":"Aliens",
+			"genero":"Suspenso",
+			"likes":"26",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/5.jpg",
+		},
+		"5":{
+			"nombre":"Star Wars: The rise of Skywalker",
+			"genero":"Ciencia Ficción",
+			"likes":"65",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/6.jpg",
+		},
+	},
+	"nuevas":{
+		"0":{
+			"nombre":"Shazam!",
+			"genero":"Acción",
+			"likes":"63",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/7.jpg",
+		},
+		"1":{
+			"nombre":"Dunkirk",
+			"genero":"Suspenso",
+			"likes":"25",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/8.jpg",
+		},
+		"2":{
+			"nombre":"LIFE",
+			"genero":"Suspenso",
+			"likes":"54",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/9.jpg",
+		},
+		"3":{
+			"nombre":"1917",
+			"genero":"Acción",
+			"likes":"46",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/10.jpg",
+		},
+		"4":{
+			"nombre":"Spider-Man: Into the Spiderverse",
+			"genero":"Animación",
+			"likes":"98",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/11.jpg",
+		},
+		"5":{
+			"nombre":"Ant-Man",
+			"genero":"Ciencia Ficción",
+			"likes":"87",
+			"imagen":"https://www.lalocaracheo.ml/imagenes/12.jpg",
+		},
+
+	}
+
+}
